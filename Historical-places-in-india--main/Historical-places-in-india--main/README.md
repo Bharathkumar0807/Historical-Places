@@ -32,8 +32,5 @@ STEP 6: Using Flex dispay the images and text in rows and columns.
 
 
 
-OUTPUT :
-
- ![image](https://user-images.githubusercontent.com/98217889/207888781-33bd503a-9287-466b-aed4-510a3db9e121.png)
 
 
